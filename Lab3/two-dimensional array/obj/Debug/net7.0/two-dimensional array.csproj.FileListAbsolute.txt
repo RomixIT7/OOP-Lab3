@@ -1,0 +1,14 @@
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\bin\Debug\net7.0\two-dimensional array.exe
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\bin\Debug\net7.0\two-dimensional array.deps.json
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\bin\Debug\net7.0\two-dimensional array.runtimeconfig.json
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\bin\Debug\net7.0\two-dimensional array.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\bin\Debug\net7.0\two-dimensional array.pdb
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\obj\Debug\net7.0\two-dimensional array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\obj\Debug\net7.0\two-dimensional array.AssemblyInfoInputs.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\obj\Debug\net7.0\two-dimensional array.AssemblyInfo.cs
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\obj\Debug\net7.0\two-dimensional array.csproj.CoreCompileInputs.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\obj\Debug\net7.0\two-dimensional array.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\obj\Debug\net7.0\refint\two-dimensional array.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\obj\Debug\net7.0\two-dimensional array.pdb
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\obj\Debug\net7.0\two-dimensional array.genruntimeconfig.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\two-dimensional array\obj\Debug\net7.0\ref\two-dimensional array.dll

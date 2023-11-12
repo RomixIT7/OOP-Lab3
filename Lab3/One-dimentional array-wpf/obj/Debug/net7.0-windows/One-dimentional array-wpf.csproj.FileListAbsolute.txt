@@ -1,0 +1,20 @@
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\bin\Debug\net7.0-windows\One-dimentional array-wpf.exe
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\bin\Debug\net7.0-windows\One-dimentional array-wpf.deps.json
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\bin\Debug\net7.0-windows\One-dimentional array-wpf.runtimeconfig.json
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\bin\Debug\net7.0-windows\One-dimentional array-wpf.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\bin\Debug\net7.0-windows\One-dimentional array-wpf.pdb
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\One-dimentional array-wpf_MarkupCompile.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\One-dimentional array-wpf_MarkupCompile.lref
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\One-dimentional array-wpf.g.resources
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\One-dimentional array-wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\One-dimentional array-wpf.AssemblyInfoInputs.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\One-dimentional array-wpf.AssemblyInfo.cs
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\One-dimentional array-wpf.csproj.CoreCompileInputs.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\One-dimentional array-wpf.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\refint\One-dimentional array-wpf.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\One-dimentional array-wpf.pdb
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\One-dimentional array-wpf.genruntimeconfig.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array-wpf\obj\Debug\net7.0-windows\ref\One-dimentional array-wpf.dll

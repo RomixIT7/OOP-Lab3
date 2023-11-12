@@ -1,0 +1,14 @@
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\bin\Debug\net7.0\One-dimentional array.exe
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\bin\Debug\net7.0\One-dimentional array.deps.json
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\bin\Debug\net7.0\One-dimentional array.runtimeconfig.json
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\bin\Debug\net7.0\One-dimentional array.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\bin\Debug\net7.0\One-dimentional array.pdb
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\obj\Debug\net7.0\One-dimentional array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\obj\Debug\net7.0\One-dimentional array.AssemblyInfoInputs.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\obj\Debug\net7.0\One-dimentional array.AssemblyInfo.cs
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\obj\Debug\net7.0\One-dimentional array.csproj.CoreCompileInputs.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\obj\Debug\net7.0\One-dimentional array.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\obj\Debug\net7.0\refint\One-dimentional array.dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\obj\Debug\net7.0\One-dimentional array.pdb
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\obj\Debug\net7.0\One-dimentional array.genruntimeconfig.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab3\One-dimentional array\obj\Debug\net7.0\ref\One-dimentional array.dll
